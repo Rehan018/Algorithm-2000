@@ -1,5 +1,3 @@
-Certainly! Let's arrange the formula step by step, ensuring clarity in each mathematical expression involved in the correctness proof of the DSA signature scheme.
-
 base
 ```
 Given:
