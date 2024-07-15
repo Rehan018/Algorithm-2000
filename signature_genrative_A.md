@@ -21,3 +21,4 @@ Proof of correctness:
    where v is the result of (g^(u_1) * y^(u_2) mod p) mod q.
 ```
 
+![Uploading image.png…]()
