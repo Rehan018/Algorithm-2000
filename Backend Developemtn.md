@@ -1,7 +1,7 @@
 # Awesome Backend Engineer
 
 **EN**
-A curated **and opinionated** list of resources (English & Russian) for Backend developers that will help you orginize & structure your learning path and knowledges. Inspired by [Awesome CTO](https://github.com/kuchin/awesome-cto).
+A curated **and opinionated** list of resources (English & Hindi) for Backend developers that will help you orginize & structure your learning path and knowledges. Inspired by [Awesome CTO](https://github.com/kuchin/awesome-cto).
 
 ### Resources for Learning Backend Development
 
